@@ -23,7 +23,6 @@
         "symfony/security-bundle": "2.0.*"
     },
     "require-dev": {
-        "symfony/class-loader": "2.0.*",
         "symfony/validator": "2.0.*"
     },
     "suggest": {

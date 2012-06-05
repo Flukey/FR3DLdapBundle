@@ -1,9 +1,6 @@
 phpunit.xml
-Tests/autoload.php
+vendor/*
 
 .idea
 nbproject
 catalog.xml
-
-vendor/*
-!vendor/vendors.php
